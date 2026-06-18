@@ -1,5 +1,5 @@
 # Before running the code install python libraries
-pip install tensorflow numpy pandas matplotlib scikit-learn pillow
+pip install tensorflow numpy matplotlib pillow
 import os
 os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
 
