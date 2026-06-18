@@ -1,0 +1,12 @@
+# The Curated Dataset for COVID-19 Posterior-Anterior Chest Radiography Images (X-Rays) is a medical imaging dataset consisting of chest X-ray images collected from various publicly available sources.
+# For this project, the dataset was organized into three classes: NORMAL, BACTERIAL_PNEUMONIA, and VIRAL_PNEUMONIA. 
+Final Dataset Folders:
+Normal : 3271 images
+Pneumonia-Bacterial : 3001 images
+Pneumonia-Viral : 1656 images
+Found 7928 files belonging to 3 classes.
+Using 6343 files for training.
+Found 7928 files belonging to 3 classes.
+Using 1585 files for validation.
+
+Detected Classes: ['Normal', 'Pneumonia-Bacterial', 'Pneumonia-Viral']
